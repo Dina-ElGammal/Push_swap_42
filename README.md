@@ -66,7 +66,7 @@ The Push_swap project teaches concepts like stack data structures, algorithm des
    - Iterate through the linked list and fill the array with the node values.
 
 3. **Sort Array**:
-   - Call `sort_arr(arr, size_of_arr)` to sort the array.
+   - Call `sort_arr(arr, size_of_arr)` to sort the array ascending.
 
 4. **Return Array**:
    - Return the sorted array `arr`.
